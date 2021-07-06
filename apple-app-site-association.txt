@@ -1,0 +1,20 @@
+{
+   "applinks": {
+       "apps": [],
+       "details": [
+          {
+              "appID": "com.gigpro",
+              "paths": [ "*" ]
+          },
+          {
+              "appID": "com.gigpro.dev",
+              "paths": [ "*" ]
+          },
+
+          {
+            "appID": "com.gigpro.stage",
+            "paths": [ "*" ]
+          }
+       ]
+   }
+}

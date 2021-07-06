@@ -1,0 +1,29 @@
+[
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gipro",
+    "sha256_cert_fingerprints":
+      ["53:1a:7f:68:70:e9:4b:9b:f5:12:29:0e:93:66:2c:4f:a1:d5:9f:41:0c:d3:99:19:0a:8f:97:3e:b4:b0:db:17"]
+    }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gipro.dev",
+    "sha256_cert_fingerprints":
+      ["2d:84:75:3e:89:1d:9d:8a:b3:c6:ac:b7:e6:59:7d:a6:80:a3:2c:bf:a2:9d:8a:ff:00:8d:d3:20:a4:de:5a:40"]
+    }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gipro.stage",
+    "sha256_cert_fingerprints":
+      ["dd:fd:cc:a6:50:80:8e:13:00:61:02:0e:c4:a2:ea:99:96:02:79:ce:e6:0e:d9:db:55:7e:5d:22:a4:78:de:e1"]
+    }
+  }
+]
